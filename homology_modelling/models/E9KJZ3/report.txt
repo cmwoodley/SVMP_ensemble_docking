@@ -1,0 +1,31 @@
+ECHOC Group III snake venom metalloproteinase (Fragment) OS=Echis ocellatus OX=99586 GN=Eoc00073 PE=2 SV=1
+model_ID: 01
+GMQE: 0.95
+Template PDB: N/A
+Template Identity: N/A
+Template Coverage: N/A
+
+model_ID: 02
+GMQE: 0.79
+Template PDB: N/A
+Template Identity: N/A
+Template Coverage: N/A
+
+model_ID: 03
+GMQE: 0.48
+Template PDB: N/A
+Template Identity: N/A
+Template Coverage: N/A
+
+model_ID: 04
+GMQE: 0.38
+Template PDB: N/A
+Template Identity: N/A
+Template Coverage: N/A
+
+model_ID: 05
+GMQE: 0.37
+Template PDB: N/A
+Template Identity: N/A
+Template Coverage: N/A
+
